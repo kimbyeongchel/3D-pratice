@@ -349,6 +349,10 @@
 "Assets/ExternalAssets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs"
 "Assets/ExternalAssets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs"
 "Assets/ExternalAssets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs"
+"Assets/PlayerController.cs"
+"Assets/RotateToMouse.cs"
+"Assets/Script/CameraMovement.cs"
+"Assets/WeaponAssaultRifle.cs"
 -langversion:9.0
 
 /deterministic
